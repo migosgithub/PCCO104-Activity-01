@@ -5,6 +5,7 @@ class Program {
   {
     string firstName = "Cyrus";
     string lastName = "Salvador";
-    Console.WriteLine($"Hello World {firstName} {lastName}");
+    int age = 19;
+    Console.WriteLine($"Hello World {firstName} {lastName} Age: {age}");
   }
 }
